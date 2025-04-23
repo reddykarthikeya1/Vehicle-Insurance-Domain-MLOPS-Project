@@ -148,4 +148,8 @@ MongoDB Creds:
 reddykarthikeya1
 p3ETMbcIKl1kPYZu
 
-mongodb+srv://reddykarthikeya1:<db_password>@cluster0.cwfbp8o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://reddykarthikeya1:p3ETMbcIKl1kPYZu@cluster0.cwfbp8o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+$env:MONGODB_URL = "mongodb+srv://reddykarthikeya1:p3ETMbcIKl1kPYZu@cluster0.cwfbp8o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+echo $env:MONGODB_URL
+
