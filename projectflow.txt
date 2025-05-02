@@ -153,3 +153,10 @@ mongodb+srv://reddykarthikeya1:p3ETMbcIKl1kPYZu@cluster0.cwfbp8o.mongodb.net/?re
 $env:MONGODB_URL = "mongodb+srv://reddykarthikeya1:p3ETMbcIKl1kPYZu@cluster0.cwfbp8o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 echo $env:MONGODB_URL
 
+
+AKIARWPFIXK6SGFAL5V4
+JTKSaFA30Do222tR0aLAXcTDcEqquZLSBjwVYR59
+
+$env:AWS_ACCESS_KEY_ID="AKIARWPFIXK6SGFAL5V4"
+$env:AWS_SECRET_ACCESS_KEY="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"
+
